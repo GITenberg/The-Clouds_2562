@@ -1,0 +1,44 @@
+_repo: The-Clouds_2562
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hickie, W. J.
+    alias: Hickie, William James
+    gutenberg_agent_id: '966'
+    url: http://www.gutenberg.org/2009/agents/966
+creator:
+  author:
+    agent_name: Aristophanes
+    aliases:
+    - Ἀριστοφάνης
+    - Αριστοφάνης
+    birthdate: -450
+    deathdate: -388
+    gutenberg_agent_id: '965'
+    url: http://www.gutenberg.org/2009/agents/965
+    wikipedia: http://en.wikipedia.org/wiki/Aristophanes
+description: The Clouds stands as the most controversial of Aristophanes' plays. For
+  in this slashing attack on sophism, Socrates, revered by later centuries as philosopher
+  and martyr, is singled out and portrayed as a venial trickster, a ludicrous and
+  lamentable purveyor of intellectual corruption.
+gutenberg_bookshelf:
+- Classical Antiquity
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greek drama (Comedy) -- Translations into English'
+- !lcc 'PA'
+- !lcsh 'Aristophanes -- Translations into English'
+- !lcsh 'Classical literature'
+- !lcsh 'Comedies'
+- !lcsh 'Rhetoric -- Study and teaching -- Drama'
+- GITenberg
+title: The Clouds
+url: http://www.gutenberg.org/ebooks/2562
